@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+Persons responsible for this website Daniela Dunkler & Georg Heinze for the SAMBA project
+
+**Contact**
+
+Daniela Dunkler, Georg Heinze
+
+Medical University of Vienna
+
+Center for Medical Data Science
+
+Spitalgasse 23, BT88
+
+1090 Vienna
+
+Austria
+
+daniela.dunkler \@ meduniwien.ac.at
+
+georg.heinze \@ meduniwien.ac.at

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "SAMBA"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
+author:
+  - name: Daniela Dunkler
+    affiliation: Medical University of Vienna, Center for Medical Data Science
+date: last-modified                            
+categories: [SAMBA, WBS Meeting, Medical University of Vienna, Vienna]
+description: ""
+
