@@ -4,9 +4,10 @@ title: "Statistical Model Building Strategies for Cardiologic Applications - New
 
 **Workshop on the 23th and 24th of November at the Medical University of Vienna**
 
-We cordially invite you to the workshop **Statistical Model Building Strategies for Cardiologic Applications (SAMBA) - New results and future challenges** on November 23th and 24th in Vienna. The workshop is organized by the PIs of the joint international project SAMBA in cooperation with the [Wiener Biometrische Sektion (WBS)](https://www.meduniwien.ac.at/wbs/) and the [Center for Medical Data Science (CeDAS)](https://cemsiis.meduniwien.ac.at/en/) at the Medical University of Vienna. We are delighted to welcome Prof. Dr. Tobias Pischon from Berlin, Germany, and Prof. Dr. Maarten van Smeden from Utrecht, Netherlands, as keynote speakers. We acknowledge the support by the Austrian Science Funds (FWF) and the Deutsche Forschungsgesellschaft (DFG) through the joint project SAMBA, grants ... and ..., respectively.
+We cordially invite you to the workshop **Statistical Model Building Strategies for Cardiologic Applications (SAMBA) - New results and future challenges** on November 23th and 24th in Vienna. The workshop is organized by the PIs of the joint international project SAMBA in cooperation with the [Wiener Biometrische Sektion (WBS)](https://www.meduniwien.ac.at/wbs/) and the [Center for Medical Data Science (CeDAS)](https://cemsiis.meduniwien.ac.at/en/) at the Medical University of Vienna. We are delighted to welcome Prof. Dr. Tobias Pischon from Berlin, Germany, and Prof. Dr. Maarten van Smeden from Utrecht, Netherlands, as keynote speakers. We acknowledge the support by the Austrian Science Funds (FWF) and the Deutsche Forschungsgemeinschaft (DFG) through the joint project SAMBA, grants I4739-B and RA-2347/8-1, respectively.
 
-The workshop will cover two half days. On the afternoon of November 23th our focus will be on complex longitudinal studies. Prof. Pischon will talk on the *Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases* followed by a panel discussion on *Complex longitudinal studies: Needs and challenges in the interaction biostatistics -- epidemiology*. The morning of November 24th is dedicated to "Rage against the machine learning", where Prof. van Smeden will give his talk. The participants of the SAMBA project will present issues and opportunities of statistical model building strategies with a focus on cardiologic applications.
+
+The workshop will cover two half days. On the afternoon of November 23th our focus will be on the intersection of epidemiology and biostatistics. Prof. Pischon will talk on the **Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases** followed by a panel discussion on *Complex longitudinal studies: Needs and challenges in the interaction epidemiology -- biostatistics*. The morning of November 24th is dedicated to **The power and danger of algorithmic model building**, where Prof. van Smeden will give his talk on *Rage against the machine learning*. The participants of the SAMBA project will present issues and opportunities of statistical model building strategies with a focus on cardiological applications.
 
 The participation in the workshop is free of charge and open to any national and international participants of any scientific discipline interested in the interaction of Biostatistics, Epidemiology, Machine Learning and Cardiology. Please register at ...
 
@@ -43,7 +44,7 @@ Venue: Medical University Vienna, [Hörsaalzentrum](https://www.meduniwien.ac.at
 +--------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 | 15:55  | 16:15  | **Correlated predictors: is variable omission a good default solution?**                                                                                 | Mariella Gregorich                                                                                                               |
 +--------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 16:15  | 16:20  | Summary of the day                                                                                                                                       | Daniela Dunkler                                                                                                                  |
+| 16:15  | 16:20  | Closing                                                                                                                                                  | Daniela Dunkler                                                                                                                  |
 +--------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
 : Programme of day 1
@@ -101,3 +102,23 @@ Maarten van Smeden is a medical statistician and associate professor at the Juli
 Van Smeden's work has resulted in publications in well-renowned journals in the field of medical statistics (e.g. Statistics in Medicine), epidemiology (e.g. American journal of Epidemiology), and general medicine (e.g. BMJ). As a collaborator, he has also contributed to implementing advanced methodology in a variety of disciplines (e.g. cardiology, infectious diseases, general practice). He is also associate editor at the European Heart Journal, Statistics in Medicine and Diagnostic and Prognostic Research (BMC journals) and has been involved in the development and validation of numerous diagnostic and prognostic prediction models. He is an experienced teacher and invited speaker on topics related to epidemiology, methodology and statistics.
 
 Van Smeden is member and chair of the datasets and communication panels of the [STRATOS initiative](https://www.stratos-initiative.org/), a collaboration of methods experts worldwide who develop guidance on design and analysis of biomedical research. He is the first author on the Dutch guideline for high-quality diagnostic and prognostic applications of AI in healthcare, commissioned by the Dutch Ministry of Health, Welfare and Sport.
+
+## Selected output of the SAMBA project
+
+The project *Statistical Model Building Strategies for Cardiologic Applications* (SAMBA) is funded by the Austrian Science Fund (FWF), grant number I4739-B to Daniela Dunkler, and the Deutsche Forschungsgemeinschaft (DFG), grant number RA-2347/8-1 to Geraldine Rauch and Heiko Becher.
+
+
+1.	Gregorich M, Strohmaier S, Dunkler D, Heinze G: Regression with Highly Correlated Predictors: Variable Omission Is Not the Solution. International Journal of Environmental Research and Public Health (2021) 18(8) [doi](https://doi.org/10.3390/ijerph18084259).
+
+2.	Hafermann L, Becher H, Herrmann C, Klein N, Heinze G, Rauch G: Statistical Model Building: Background "Knowledge" Based on Inappropriate Preselection Causes Misspecification. BMC Med Res Methodol (2021) 21(1):196 [doi](https://doi.org/10.1186/s12874-021-01373-z).
+
+3.	Wallisch C, Agibetov A, Dunkler D, Haller M, Samwald M, Dorffner G, Heinze G: The Roles of Predictors in Cardiovascular Risk Models - a Question of Modeling Culture? BMC Medical Research Methodology (2021) 21(1):284 [doi](https://doi.org/10.1186/s12874-021-01487-4). 
+
+4.	Hafermann L, Klein N, Rauch G, Kammer M, Heinze G: Using Background Knowledge from Preceding Studies for Building a Random Forest Prediction Model: A Plasmode Simulation Study. Entropy (Basel) (2022) 24(6): [doi](https://doi.org/10.3390/e24060847). 
+
+5.	Kammer M, Dunkler D, Michiels S, Heinze G: Evaluating Methods for Lasso Selective Inference in Biomedical Research: A Comparative Simulation Study. BMC Medical Research Methodology (2022) 22(1):206 [doi](https://doi.org/10.1186/s12874-022-01681-y). 
+
+6.	Akbari N, Heinze G, Rauch G, Sander B, Becher H, Dunkler D: Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review. International Journal of Environmental Research and Public Health (2023) 20(4):3182 [doi](https://doi.org/10.3390/ijerph20043182). 
+
+
+
