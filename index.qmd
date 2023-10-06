@@ -2,7 +2,6 @@
 title: "Statistical Model Building Strategies for Cardiologic Applications - New results and future challenges"
 ---
 
-
 ## **Workshop on the 23th and 24th of November at the Medical University of Vienna**
 
 We cordially invite you to the workshop **Statistical Model Building Strategies for Cardiologic Applications (SAMBA) - New results and future challenges** on November 23th and 24th in Vienna. The workshop is organized by the PIs of the international joint project SAMBA in cooperation with the [Wiener Biometrische Sektion (WBS)](https://www.meduniwien.ac.at/wbs/) and the [Center for Medical Data Science (CeDAS)](https://cemsiis.meduniwien.ac.at/en/) at the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/). We are delighted to welcome Prof. Dr. **Tobias Pischon** from Berlin, Germany, and Prof. Dr. **Maarten van Smeden** from Utrecht, Netherlands, as keynote speakers. We acknowledge the support by the Austrian Science Funds (FWF) and the Deutsche Forschungsgemeinschaft (DFG) through the joint project SAMBA, grants I4739-B and RA-2347/8-1, respectively.
@@ -19,7 +18,11 @@ We are looking forward to welcoming you in Vienna in November!
 
 If you intend to come to the workshop, please register here:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYnvKqiHXADGIJLuwOunU4xh0qoVAzb0s6-UeyskdfKjmL_g/viewform?embedded=true" width="640" height="1260" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYnvKqiHXADGIJLuwOunU4xh0qoVAzb0s6-UeyskdfKjmL_g/viewform?embedded=true" width="640" height="1260" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading...
+
+</iframe>
 
 ## Programme
 
@@ -29,33 +32,33 @@ Topic of the day **Epidemiology and biostatistics: we need each other**
 
 Venue: Medical University Vienna, [Hörsaalzentrum](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/forschungsservice/international_office/MedUni_Wien_Plan_2016_komplett_1.1.pdf) (building 4 on the attached plan), Hörsaal 3
 
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| Start   | End     | Topic                                                                                                                                                    | Presenter                                                                                                                        |
-+=========+=========+==========================================================================================================================================================+==================================================================================================================================+
-| 13:00   | 13:05   | Introduction                                                                                                                                             | Daniela Dunkler & Heiko Becher                                                                                                   |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:05   | 13:25   | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                                                 | Daniela Dunkler                                                                                                                  |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:25   | 14:15   | Invited talk: **Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases** | Tobias Pischon                                                                                                                   |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:15   | 14:45   | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**                       | Panelists:                                                                                                                       |
-|         |         |                                                                                                                                                          |                                                                                                                                  |
-|         |         |                                                                                                                                                          | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Geraldine Rauch, Daniela Dunkler, Georg Heinze |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:45   | 15:15   | BREAK                                                                                                                                                    |                                                                                                                                  |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:15   | 15:35   | **Model building using statistical and machine learning approaches: Comparison of performance and explainability**                                       | Christine Schilhart-Wallisch                                                                                                     |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:35   | 15:55   | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                                   | Lorena Hafermann                                                                                                                 |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:55   | 16:15   | **Correlated predictors: is variable omission a good default solution?**                                                                                 | Mariella Gregorich                                                                                                               |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 16:15   | 16:20   | Closing                                                                                                                                                  | Daniela Dunkler                                                                                                                  |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Start | End   | Topic                                                                                                                                                    | Presenter                                                                                                                        |
++=======+=======+==========================================================================================================================================================+==================================================================================================================================+
+| 13:00 | 13:05 | Introduction                                                                                                                                             | Daniela Dunkler & Heiko Becher                                                                                                   |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 13:05 | 13:25 | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                                                 | Daniela Dunkler                                                                                                                  |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 13:25 | 14:15 | Invited talk: **Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases** | Tobias Pischon                                                                                                                   |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 14:15 | 14:45 | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**                       | Panelists:                                                                                                                       |
+|       |       |                                                                                                                                                          |                                                                                                                                  |
+|       |       |                                                                                                                                                          | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Geraldine Rauch, Daniela Dunkler, Georg Heinze |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 14:45 | 15:15 | BREAK                                                                                                                                                    |                                                                                                                                  |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:15 | 15:35 | **Phase IV study for joint models for longitudinal and time to event data**                                                                              | Jil Kollmus-Heege                                                                                                                |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:35 | 15:55 | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                                   | Lorena Hafermann                                                                                                                 |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:55 | 16:15 | **Correlated predictors: is variable omission a good default solution?**                                                                                 | Mariella Gregorich                                                                                                               |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 16:15 | 16:20 | Closing                                                                                                                                                  | Daniela Dunkler                                                                                                                  |
++-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
 : Programme of day 1
 
-Social programme
+Evening: Social programme
 
 ### Friday, 24.11.2023
 
@@ -63,25 +66,25 @@ Topic of the day **The power and danger of algorithmic model building**
 
 Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/dir//Spitalgasse+23,+1090+Wien/@48.2185593,16.3465908,16.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x476d07c6c528c823:0x97a73506b8511477!2m2!1d16.3475329!2d48.2196447?entry=ttu), [Jugendstilhörsaal](https://www.meduniwien.ac.at/frauenheilkunde/gyn_data/Jugendstilh%C3%B6rsaal_Wegbeschreibung180416.pdf)
 
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| Start  | End    | Topic                                                                                                  | Presenter          |
-+========+========+========================================================================================================+====================+
-| 9:00   | 9:10   | Introduction                                                                                           | Georg Heinze       |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 9:10   | 9:30   | **Reliable confidence intervals after variable selection: does it work in practice?**                  | Michael Kammer     |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 9:30   | 10:30  | Invited talk: **Rage against the machine learning**                                                    | Maarten van Smeden |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 10:30  | 11:00  | BREAK                                                                                                  |                    |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 11:00  | 11:20  | **Variable selection methods for linear and logistic regression: A comparison of approaches**          | Theresa Ullmann    |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 11:20  | 11:40  | **Variable selection methods for Cox and accelerated failure time models: A comparison of approaches** | Georg Heinze       |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 11:40  | 12:00  | **Variable selection: Improving on the bad habit to ignore selection decisions in model inference**    | Nilufar Akbari     |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
-| 12:00  | 12:05  | Closing                                                                                                | Georg Heinze       |
-+--------+--------+--------------------------------------------------------------------------------------------------------+--------------------+
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| **Start** | **End** | **Topic**                                                                                                          | **Presenter**                |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 9:00      | 9:10    | Introduction                                                                                                       | Georg Heinze                 |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 9:10      | 9:30    | **Model building using statistical and machine learning approaches: Comparison of performance and explainability** | Christine Schilhart-Wallisch |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 9:30      | 10:30   | Invited talk: **Rage against the machine learning**                                                                | Maarten van Smeden           |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 10:30     | 11:00   | BREAK                                                                                                              |                              |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 11:00     | 11:20   | **Variable selection methods for linear and logistic regression: A comparison of approaches**                      | Theresa Ullmann              |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 11:20     | 11:40   | **Reliable confidence intervals after variable selection: does it work in practice?**                              | Michael Kammer               |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 11:40     | 12:00   | **Variable selection: Improving on the bad habit to ignore selection decisions in model inference**                | Nilufar Akbari               |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 12:00     | 12:05   | Closing                                                                                                            | Georg Heinze                 |
++-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 
 : Programme of day 2
 
@@ -94,7 +97,6 @@ tba
 ### Rage against the machine learning, Maarten van Smeden
 
 tba
-
 
 ## Abstracts of remaining talks
 
@@ -158,31 +160,31 @@ Van Smeden's work has resulted in publications in well-renowned journals in the 
 
 Van Smeden is member and chair of the datasets and communication panels of the [STRATOS initiative](https://www.stratos-initiative.org/), a collaboration of methods experts worldwide who develop guidance on design and analysis of biomedical research. He is the first author on the Dutch guideline for high-quality diagnostic and prognostic applications of AI in healthcare, commissioned by the Dutch Ministry of Health, Welfare and Sport.
 
-
 ## SAMBA participants & presenters
 
--   Akbari Nilufar [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/msc_nilufar_akbari/)
+-   Akbari, Nilufar [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/msc_nilufar_akbari/)
 
--   Becher Heiko [(Universitätsklinikum Hamburg-Eppendorf)](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_heiko_becher.html)
+-   Becher, Heiko [(Universitätsklinikum Hamburg-Eppendorf)](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_heiko_becher.html)
 
--   Dunkler Daniela [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/daniela_dunkler)
+-   Dunkler, Daniela [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/daniela_dunkler)
 
--   Gregorich Mariella [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/mariella_gregorich)
+-   Gregorich, Mariella [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/mariella_gregorich)
 
--   Hafermann Lorena [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/lorena_hafermann/)
+-   Hafermann, Lorena [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/lorena_hafermann/)
 
--   Heinze Georg [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/georg_heinze)
+-   Heinze, Georg [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/georg_heinze)
 
--   Herrmann Carolin [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/phd_carolin_herrmann/)
+-   Herrmann, Carolin [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/phd_carolin_herrmann/)
 
--   Kammer Michael [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/kammer_michael)
+-   Kammer, Michael [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/kammer_michael)
 
--   Rauch Geraldine [Technische Universität Berlin](https://www.tu.berlin/ueber-die-tu-berlin/organisation/universitaetsleitung/praesidentin)
+-   Kollmus-Heege, Jil [(Charité Universtitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/msc_jil_kollmus_heege/)
 
--   Schilhart-Wallisch Christine (AGES)
+-   Rauch, Geraldine [Technische Universität Berlin](https://www.tu.berlin/ueber-die-tu-berlin/organisation/universitaetsleitung/praesidentin)
 
--   Ullmann Theresa [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/theresa_ullmann)
+-   Schilhart-Wallisch, Christine (Agentur für Gesundheit und Ernährungssicherheit, Wien)
 
+-   Ullmann, Theresa [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/theresa_ullmann)
 
 ## Selected output of the SAMBA project
 
