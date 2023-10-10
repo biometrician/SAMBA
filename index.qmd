@@ -28,29 +28,29 @@ Topic of the day **Epidemiology and biostatistics: we need each other**
 
 Venue: Medical University Vienna, [Hörsaalzentrum](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/forschungsservice/international_office/MedUni_Wien_Plan_2016_komplett_1.1.pdf) (building 4 on the attached plan), Hörsaal 3
 
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| Start  | End    | Topic                                                                                                                                  | Presenter                                                                                                                        |
-+========+========+========================================================================================================================================+==================================================================================================================================+
-| 13:00  | 13:05  | Introduction                                                                                                                           | Daniela Dunkler & Heiko Becher                                                                                                   |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:05  | 13:25  | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                               | Daniela Dunkler                                                                                                                  |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:25  | 14:15  | Invited talk: **The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics** \| Tobias Pischon \| |                                                                                                                                  |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:15  | 14:45  | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**     | Panelists:                                                                                                                       |
-|        |        |                                                                                                                                        |                                                                                                                                  |
-|        |        |                                                                                                                                        | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden,  Daniela Dunkler, Georg Heinze |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:45  | 15:15  | BREAK                                                                                                                                  |                                                                                                                                  |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:15  | 15:35  | **Phase IV study for joint models for longitudinal and time to event data**                                                            | Jil Kollmus-Heege                                                                                                                |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:35  | 15:55  | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                 | Lorena Hafermann                                                                                                                 |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:55  | 16:15  | **Correlated predictors: is variable omission a good default solution?**                                                               | Mariella Gregorich                                                                                                               |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 16:15  | 16:20  | Closing                                                                                                                                | Daniela Dunkler                                                                                                                  |
-+--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Start   | End     | Topic                                                                                                                                  | Presenter                                                                                                          |
++=========+=========+========================================================================================================================================+====================================================================================================================+
+| 13:00   | 13:05   | Introduction                                                                                                                           | Daniela Dunkler & Heiko Becher                                                                                     |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 13:05   | 13:25   | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                               | Daniela Dunkler                                                                                                    |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 13:25   | 14:15   | Invited talk: **The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics** \| Tobias Pischon \| |                                                                                                                    |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 14:15   | 14:45   | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**     | Panelists:                                                                                                         |
+|         |         |                                                                                                                                        |                                                                                                                    |
+|         |         |                                                                                                                                        | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Daniela Dunkler, Georg Heinze \| |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 14:45   | 15:15   | BREAK                                                                                                                                  |                                                                                                                    |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 15:15   | 15:35   | **Phase IV study for joint models for longitudinal and time to event data**                                                            | Jil Kollmus-Heege                                                                                                  |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 15:35   | 15:55   | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                 | Lorena Hafermann                                                                                                   |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 15:55   | 16:15   | **Correlated predictors: is variable omission a good default solution?**                                                               | Mariella Gregorich                                                                                                 |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| 16:15   | 16:20   | Closing                                                                                                                                | Daniela Dunkler                                                                                                    |
++---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
 : Programme of day 1
 
@@ -88,7 +88,7 @@ Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/d
 
 ### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics
 
-**Tobias Pischon** 
+**Tobias Pischon**
 
 The German National Cohort (NAKO) is a large, multidisciplinary, population-based cohort study that aims to investigate the development and etiology of major chronic diseases, identify risk factors and enhance early detection and prevention of diseases. Between 2014 and 2019, a total of 205,217 persons aged 20-74 years was recruited and examined at 18 study centers across Germany. Whole-body 3T magnetic resonance imaging (MRI) readings were performed on 30,861 participants at 5 study centers. Participants are followed-up for incident diseases via questionnaires, health records and disease registries. In addition, a mortality follow-up has been established. In addition, all study participants are being invited for a first re-examination, similar to the baseline program, between 2019 and 2024, and a second re-examination between 2024 and 2028. Interested scientists can use the web-based NAKO TransferHub (transfer.nako.de) to obtain insight into data dictionary and study population, and to apply for data or biological samples, which are made available on the basis of a Use and Access Policy. In my presentation I will provide an overview of the German National Cohort and give examples of opportunity and challenges with a focus on interactions with biostatistics.
 
@@ -152,11 +152,71 @@ tba
 
 by *Nilufar Akbari* & Georg Heinze
 
-## Biosketch
+## Biosketch of invited speakers
 
 ### Tobias Pischon
 
-tba
+Prof. Dr. med. Tobias Pischon, MPH
+
+[Molecular Epidemiology Research Group](https://www.mdc-berlin.de/pischon)
+
++-----------+---------------------------------------------------------------------------------------------------------------------+
+| 2010-     | Head, Molecular Epidemiology Research Group, Max-Delbrück-Centrum für Molekulare Medizin (MDC) Berlin-Buch, Germany |
++-----------+---------------------------------------------------------------------------------------------------------------------+
+| 2010-     | Full Professor in Molecular Epidemiology, Charité -- Universitätsmedizin Berlin, Germany                            |
++-----------+---------------------------------------------------------------------------------------------------------------------+
+
+: Current positions
+
++----------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 2018-    | Member, Board of Directors, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany                         |
++----------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 2015-    | Head, Biobank Technology Platform, Max-Delbrück Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (MDC), Berlin, Germany |
++----------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 2015-    | Member, Board of Directors, Biobank Core Facility, Berlin Institute of Health (BIH), Berlin, Germany \|                             |
++----------+-------------------------------------------------------------------------------------------------------------------------------------+
+| 2011-    | Member of the PIs, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany Education and Qualification \|   |
++----------+-------------------------------------------------------------------------------------------------------------------------------------+
+
+: Other Affiliations and Positions
+
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 2007      | Venia docendi (Habilitation) and Venia legendi (Lehrbefugnis), Charité -- Universitätsmedizin Berlin, Germany |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 2007      | Venia docendi (Habilitation) and Venia legendi (Lehrbefugnis), Charité -- Universitätsmedizin Berlin, Germany |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 2005      | Certificate Clinical Nutrition, Med. Assoc. Berlin and Brandenburg, Germany                                   |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 2005      | Certificate Epidemiology, German Society for Epidemiology                                                     |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 1999-2001 | Study of Public Health; Degree: MPH, Technische Universität Berlin, Germany                                   |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 1996-1999 | Dissertation; Degree: Dr. med., Freie Universität Berlin, Germany                                             |
++-----------+---------------------------------------------------------------------------------------------------------------+
+| 1991-1998 | Study of Medicine; Degree: MD, Freie Universität Berlin, Germany                                              |
++-----------+---------------------------------------------------------------------------------------------------------------+
+
+: Education and Qualification
+
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2008-2010 | Head, Biomarker Research Group, Dept. of Epidemiology, Deutsches Institut für Ernährungsforschung (DIfE) Potsdam-Rehbrücke, Germany                       |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2005-2007 | Senior Investigator (Co-Appointment), Institut für Sozialmedizin, Epidemiologie und Gesundheitsökonomie, Charité -- Universitätsmedizin Berlin, Germany   |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2004-2008 | Senior Investigator, Dept. of Epidemiology, Deutsches Institut für Ernährungsforschung (DIfE) Potsdam-Rehbrücke, Germany                                  |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2001-2004 | Postdoc/Research Associate, Depts. of Epidemiology and Nutrition, Harvard School of Public Health, Harvard University, Boston, MA, USA                    |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1998-2001 | Medical Residency/Postdoc, Dept. of Nephrology and Hypertensiology, Charité, and Dept. of Endocrinology and Nephrology, Freie Universität Berlin, Germany |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Past Academic Experience
+
+Publications:
+
+-   [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=pischon-t)
+
+-   [ocrid](https://orcid.org/0000-0003-1568-767X)
 
 ### Maarten van Smeden
 
@@ -170,7 +230,7 @@ Van Smeden is member and chair of the datasets and communication panels of the [
 
 -   Akbari, Nilufar [(Charité Universitätsmedizin Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/msc_nilufar_akbari/)
 
--   Becher, Heiko [(Universitätsklinikum Hamburg-Eppendorf)](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_heiko_becher.html)
+-   Becher, Heiko [(Universitätsklinikum Heidelberg )](https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/groups-projects/working-groups/epidemiology-and-biostatistics/staffmem/members/becherh)
 
 -   Dunkler, Daniela [(Medical University of Vienna)](https://www.meduniwien.ac.at/researcher/daniela_dunkler)
 
