@@ -18,11 +18,7 @@ We are looking forward to welcoming you in Vienna in November!
 
 If you intend to come to the workshop, please register here:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYnvKqiHXADGIJLuwOunU4xh0qoVAzb0s6-UeyskdfKjmL_g/viewform?embedded=true" width="640" height="1260" frameborder="0" marginheight="0" marginwidth="0">
-
-Loading...
-
-</iframe>
+*Registration will open soon*
 
 ## Programme
 
@@ -32,29 +28,29 @@ Topic of the day **Epidemiology and biostatistics: we need each other**
 
 Venue: Medical University Vienna, [Hörsaalzentrum](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/forschungsservice/international_office/MedUni_Wien_Plan_2016_komplett_1.1.pdf) (building 4 on the attached plan), Hörsaal 3
 
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| Start | End   | Topic                                                                                                                                                    | Presenter                                                                                                                        |
-+=======+=======+==========================================================================================================================================================+==================================================================================================================================+
-| 13:00 | 13:05 | Introduction                                                                                                                                             | Daniela Dunkler & Heiko Becher                                                                                                   |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:05 | 13:25 | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                                                 | Daniela Dunkler                                                                                                                  |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 13:25 | 14:15 | Invited talk: **Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases** | Tobias Pischon                                                                                                                   |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:15 | 14:45 | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**                       | Panelists:                                                                                                                       |
-|       |       |                                                                                                                                                          |                                                                                                                                  |
-|       |       |                                                                                                                                                          | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Geraldine Rauch, Daniela Dunkler, Georg Heinze |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 14:45 | 15:15 | BREAK                                                                                                                                                    |                                                                                                                                  |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:15 | 15:35 | **Phase IV study for joint models for longitudinal and time to event data**                                                                              | Jil Kollmus-Heege                                                                                                                |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:35 | 15:55 | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                                   | Lorena Hafermann                                                                                                                 |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 15:55 | 16:15 | **Correlated predictors: is variable omission a good default solution?**                                                                                 | Mariella Gregorich                                                                                                               |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| 16:15 | 16:20 | Closing                                                                                                                                                  | Daniela Dunkler                                                                                                                  |
-+-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Start  | End    | Topic                                                                                                                                  | Presenter                                                                                                                        |
++========+========+========================================================================================================================================+==================================================================================================================================+
+| 13:00  | 13:05  | Introduction                                                                                                                           | Daniela Dunkler & Heiko Becher                                                                                                   |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 13:05  | 13:25  | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                               | Daniela Dunkler                                                                                                                  |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 13:25  | 14:15  | Invited talk: **The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics** \| Tobias Pischon \| |                                                                                                                                  |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 14:15  | 14:45  | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**     | Panelists:                                                                                                                       |
+|        |        |                                                                                                                                        |                                                                                                                                  |
+|        |        |                                                                                                                                        | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Geraldine Rauch, Daniela Dunkler, Georg Heinze |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 14:45  | 15:15  | BREAK                                                                                                                                  |                                                                                                                                  |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:15  | 15:35  | **Phase IV study for joint models for longitudinal and time to event data**                                                            | Jil Kollmus-Heege                                                                                                                |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:35  | 15:55  | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                 | Lorena Hafermann                                                                                                                 |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 15:55  | 16:15  | **Correlated predictors: is variable omission a good default solution?**                                                               | Mariella Gregorich                                                                                                               |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| 16:15  | 16:20  | Closing                                                                                                                                | Daniela Dunkler                                                                                                                  |
++--------+--------+----------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
 : Programme of day 1
 
@@ -90,9 +86,9 @@ Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/d
 
 ## Abstracts of invited talks
 
-### Interaction of Epidemiology with Biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases, Tobias Pischon
+### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics
 
-tba
+**Tobias Pischon** The German National Cohort (NAKO) is a large, multidisciplinary, population-based cohort study that aims to investigate the development and etiology of major chronic diseases, identify risk factors and enhance early detection and prevention of diseases. Between 2014 and 2019, a total of 205,217 persons aged 20-74 years was recruited and examined at 18 study centers across Germany. Whole-body 3T magnetic resonance imaging (MRI) readings were performed on 30,861 participants at 5 study centers. Participants are followed-up for incident diseases via questionnaires, health records and disease registries. In addition, a mortality follow-up has been established. In addition, all study participants are being invited for a first re-examination, similar to the baseline program, between 2019 and 2024, and a second re-examination between 2024 and 2028. Interested scientists can use the web-based NAKO TransferHub (transfer.nako.de) to obtain insight into data dictionary and study population, and to apply for data or biological samples, which are made available on the basis of a Use and Access Policy. In my presentation I will provide an overview of the German National Cohort and give examples of opportunity and challenges with a focus on interactions with biostatistics.
 
 ### Rage against the machine learning, Maarten van Smeden
 
@@ -105,6 +101,12 @@ tba
 Nilufar Akbari, Georg Heinze, Geraldine Rauch, Ben Sander, Heiko Becher & *Daniela Dunkler*
 
 tba
+
+### Phase IV study for joint models for longitudinal and time to event data
+
+*Jil Kollmus-Heege*
+
+In recent years, there has been an increasing use of joint models to describe the relationship between a longitudinally measured biomarker and the time to an event. The current literature suggests that joint models are preferable to conventional methods as they were shown to be unbiased in such settings. However, it is important to conduct further investigation into this relatively new and complex approach to fully understand its pitfalls and to identify what to watch out for when using it. Therefore, we compare joint models to the time-varying Cox model and the two-stage approach in multiple simulation studies. These include basic simulations as well as more complex ones based on actual observational data.
 
 ### Model building using statistical and machine learning approaches: Comparison of performance and explainability
 
