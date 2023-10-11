@@ -258,5 +258,3 @@ FWF Austrian Science Fund: [![](pics/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png)](htt
 \
 \
 DFG Deutsche Forschungsgemeinschaft: [![](pics/dfg_logo_englisch_blau_en.jpg)](https://www.dfg.de/en/)
-
-test2
