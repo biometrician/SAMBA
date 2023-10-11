@@ -28,29 +28,18 @@ Topic of the day **Epidemiology and biostatistics: we need each other**
 
 Venue: Medical University Vienna, [Hörsaalzentrum](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/forschungsservice/international_office/MedUni_Wien_Plan_2016_komplett_1.1.pdf) (building 4 on the attached plan), Hörsaal 3
 
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Start   | End     | Topic                                                                                                                                  | Presenter                                                                                                          |
-+=========+=========+========================================================================================================================================+====================================================================================================================+
-| 13:00   | 13:05   | Introduction                                                                                                                           | Daniela Dunkler & Heiko Becher                                                                                     |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 13:05   | 13:25   | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                               | Daniela Dunkler                                                                                                    |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 13:25   | 14:15   | Invited talk: **The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics** \| Tobias Pischon \| |                                                                                                                    |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 14:15   | 14:45   | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**     | Panelists:                                                                                                         |
-|         |         |                                                                                                                                        |                                                                                                                    |
-|         |         |                                                                                                                                        | Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Daniela Dunkler, Georg Heinze \| |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 14:45   | 15:15   | BREAK                                                                                                                                  |                                                                                                                    |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 15:15   | 15:35   | **Phase IV study for joint models for longitudinal and time to event data**                                                            | Jil Kollmus-Heege                                                                                                  |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 15:35   | 15:55   | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                 | Lorena Hafermann                                                                                                   |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 15:55   | 16:15   | **Correlated predictors: is variable omission a good default solution?**                                                               | Mariella Gregorich                                                                                                 |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| 16:15   | 16:20   | Closing                                                                                                                                | Daniela Dunkler                                                                                                    |
-+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+|           |         |                                                                                                                                              |                                                                                                                              |
+|---------|---------|----------------------------------------|------------------|
+| **Start** | **End** | **Topic**                                                                                                                                    | **Presenter**                                                                                                                |
+| 13:00     | 13:05   | Introduction                                                                                                                                 | Daniela Dunkler & Heiko Becher                                                                                               |
+| 13:05     | 13:25   | **Causal model building in the context of cardiac rehabilitation: A systematic review and a case study**                                     | Daniela Dunkler                                                                                                              |
+| 13:25     | 14:15   | Invited talk: **The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics** (see @sec-AbstractPischon) | Tobias Pischon                                                                                                               |
+| 14:15     | 14:45   | Panel discussion: **Complex longitudinal studies: Needs and challenges in the interaction between biostatistics and epidemiology**           | *Panelists:* Tobias Pischon, Heiko Becher, Ulrike Grittner, Dörte Huscher, Maarten van Smeden, Daniela Dunkler, Georg Heinze |
+| 14:45     | 15:15   | BREAK                                                                                                                                        |                                                                                                                              |
+| 15:15     | 15:35   | **Phase IV study for joint models for longitudinal and time to event data**                                                                  | Jil Kollmus-Heege                                                                                                            |
+| 15:35     | 15:55   | **Using background knowledge from previous studies in model building: the good, the bad and the ugly**                                       | Lorena Hafermann                                                                                                             |
+| 15:55     | 16:15   | **Correlated predictors: is variable omission a good default solution?**                                                                     | Mariella Gregorich                                                                                                           |
+| 16:15     | 16:20   | Closing                                                                                                                                      | Daniela Dunkler                                                                                                              |
 
 : Programme of day 1
 
@@ -62,37 +51,29 @@ Topic of the day **The power and danger of algorithmic model building**
 
 Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/dir//Spitalgasse+23,+1090+Wien/@48.2185593,16.3465908,16.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x476d07c6c528c823:0x97a73506b8511477!2m2!1d16.3475329!2d48.2196447?entry=ttu), [Jugendstilhörsaal](https://www.meduniwien.ac.at/frauenheilkunde/gyn_data/Jugendstilh%C3%B6rsaal_Wegbeschreibung180416.pdf)
 
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+|           |         |                                                                                                                    |                              |
+|---------|---------|-----------------------------------|-----------------|
 | **Start** | **End** | **Topic**                                                                                                          | **Presenter**                |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 9:00      | 9:10    | Introduction                                                                                                       | Georg Heinze                 |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 9:10      | 9:30    | **Model building using statistical and machine learning approaches: Comparison of performance and explainability** | Christine Schilhart-Wallisch |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
-| 9:30      | 10:30   | Invited talk: **Rage against the machine learning**                                                                | Maarten van Smeden           |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
+| 9:30      | 10:30   | Invited talk: **Rage against the machine learning** (see @sec-AbstractSmeden)                                      | Maarten van Smeden           |
 | 10:30     | 11:00   | BREAK                                                                                                              |                              |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 11:00     | 11:20   | **Variable selection methods for linear and logistic regression: A comparison of approaches**                      | Theresa Ullmann              |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 11:20     | 11:40   | **Reliable confidence intervals after variable selection: does it work in practice?**                              | Michael Kammer               |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 11:40     | 12:00   | **Variable selection: Improving on the bad habit to ignore selection decisions in model inference**                | Nilufar Akbari               |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 | 12:00     | 12:05   | Closing                                                                                                            | Georg Heinze                 |
-+-----------+---------+--------------------------------------------------------------------------------------------------------------------+------------------------------+
 
 : Programme of day 2
 
 ## Abstracts of invited talks
 
-#### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics
+#### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics {#sec-AbstractPischon}
 
 **Tobias Pischon**
 
 The German National Cohort (NAKO) is a large, multidisciplinary, population-based cohort study that aims to investigate the development and etiology of major chronic diseases, identify risk factors and enhance early detection and prevention of diseases. Between 2014 and 2019, a total of 205,217 persons aged 20-74 years was recruited and examined at 18 study centers across Germany. Whole-body 3T magnetic resonance imaging (MRI) readings were performed on 30,861 participants at 5 study centers. Participants are followed-up for incident diseases via questionnaires, health records and disease registries. In addition, a mortality follow-up has been established. In addition, all study participants are being invited for a first re-examination, similar to the baseline program, between 2019 and 2024, and a second re-examination between 2024 and 2028. Interested scientists can use the web-based NAKO TransferHub (transfer.nako.de) to obtain insight into data dictionary and study population, and to apply for data or biological samples, which are made available on the basis of a Use and Access Policy. In my presentation I will provide an overview of the German National Cohort and give examples of opportunity and challenges with a focus on interactions with biostatistics.
 
-#### Rage against the machine learning
+#### Rage against the machine learning {#sec-AbstractSmeden}
 
 **Maarten van Smeden**
 
@@ -104,8 +85,7 @@ Medicine appears to be at the start of a new era due to the many promising devel
 
 Nilufar Akbari, Georg Heinze, Geraldine Rauch, Ben Sander, Heiko Becher & *Daniela Dunkler*
 
-Randomization is an effective design option to prevent bias from confounding in the evaluation of the causal effect of interventions on outcomes. However, sometimes randomization is not possible, making subsequent adjustment for confounders essential to obtain valid results. Several methods exist to adjust for confounding, with multivariable modeling being among the most widely used. The main challenge is to determine which variables should be included in the causal model and to specify appropriate functional relations for continuous variables in the model. While the statistical literature gives a variety of recommendations on how to build multivariable regression models in practice, this guidance is often unknown to applied researchers. We set out to investigate the current practice of explanatory regression modeling to control confounding in the field of cardiac rehabilitation, for which mainly non-randomized observational studies are available. In particular, we conducted a systematic methods review to identify and compare statistical methodology with respect to statistical model building in the context of the existing recent systematic review [CROS-II](https://doi.org/10.1177/2047487320905719), which evaluated the prognostic effect of cardiac rehabilitation. 
-
+Randomization is an effective design option to prevent bias from confounding in the evaluation of the causal effect of interventions on outcomes. However, sometimes randomization is not possible, making subsequent adjustment for confounders essential to obtain valid results. Several methods exist to adjust for confounding, with multivariable modeling being among the most widely used. The main challenge is to determine which variables should be included in the causal model and to specify appropriate functional relations for continuous variables in the model. While the statistical literature gives a variety of recommendations on how to build multivariable regression models in practice, this guidance is often unknown to applied researchers. We set out to investigate the current practice of explanatory regression modeling to control confounding in the field of cardiac rehabilitation, for which mainly non-randomized observational studies are available. In particular, we conducted a systematic methods review to identify and compare statistical methodology with respect to statistical model building in the context of the existing recent systematic review [CROS-II](https://doi.org/10.1177/2047487320905719), which evaluated the prognostic effect of cardiac rehabilitation.
 
 #### Phase IV study for joint models for longitudinal and time to event data
 
@@ -157,55 +137,41 @@ Prof. Dr. med. Tobias Pischon, MPH
 
 [Molecular Epidemiology Research Group](https://www.mdc-berlin.de/pischon)
 
-+-----------+---------------------------------------------------------------------------------------------------------------------+
-| 2010-     | Head, Molecular Epidemiology Research Group, Max-Delbrück-Centrum für Molekulare Medizin (MDC) Berlin-Buch, Germany |
-+-----------+---------------------------------------------------------------------------------------------------------------------+
-| 2010-     | Full Professor in Molecular Epidemiology, Charité -- Universitätsmedizin Berlin, Germany                            |
-+-----------+---------------------------------------------------------------------------------------------------------------------+
+|       |                                                                                                                     |
+|---------|--------------------------------------------------------------|
+| 2010- | Head, Molecular Epidemiology Research Group, Max-Delbrück-Centrum für Molekulare Medizin (MDC) Berlin-Buch, Germany |
+| 2010- | Full Professor in Molecular Epidemiology, Charité -- Universitätsmedizin Berlin, Germany                            |
 
 : Current positions
 
-+----------+-------------------------------------------------------------------------------------------------------------------------------------+
-| 2018-    | Member, Board of Directors, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany                         |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------+
-| 2015-    | Head, Biobank Technology Platform, Max-Delbrück Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (MDC), Berlin, Germany |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------+
-| 2015-    | Member, Board of Directors, Biobank Core Facility, Berlin Institute of Health (BIH), Berlin, Germany \|                             |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------+
-| 2011-    | Member of the PIs, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany Education and Qualification \|   |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------+
+|       |                                                                                                                                     |
+|---------|--------------------------------------------------------------|
+| 2018- | Member, Board of Directors, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany                         |
+| 2015- | Head, Biobank Technology Platform, Max-Delbrück Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (MDC), Berlin, Germany |
+| 2015- | Member, Board of Directors, Biobank Core Facility, Berlin Institute of Health (BIH), Berlin, Germany \|                             |
+| 2011- | Member of the PIs, German National Cohort (NAKO Gesundheitsstudie), NAKO e.V., Heidelberg, Germany Education and Qualification \|   |
 
 : Other Affiliations and Positions
 
-+-----------+---------------------------------------------------------------------------------------------------------------+
+|           |                                                                                                               |
+|-----------|-----------------------------------------------------------|
 | 2007      | Venia docendi (Habilitation) and Venia legendi (Lehrbefugnis), Charité -- Universitätsmedizin Berlin, Germany |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 2007      | Venia docendi (Habilitation) and Venia legendi (Lehrbefugnis), Charité -- Universitätsmedizin Berlin, Germany |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 2005      | Certificate Clinical Nutrition, Med. Assoc. Berlin and Brandenburg, Germany                                   |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 2005      | Certificate Epidemiology, German Society for Epidemiology                                                     |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 1999-2001 | Study of Public Health; Degree: MPH, Technische Universität Berlin, Germany                                   |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 1996-1999 | Dissertation; Degree: Dr. med., Freie Universität Berlin, Germany                                             |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 | 1991-1998 | Study of Medicine; Degree: MD, Freie Universität Berlin, Germany                                              |
-+-----------+---------------------------------------------------------------------------------------------------------------+
 
 : Education and Qualification
 
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|           |                                                                                                                                                           |
+|------------|----------------------------------------------------------|
 | 2008-2010 | Head, Biomarker Research Group, Dept. of Epidemiology, Deutsches Institut für Ernährungsforschung (DIfE) Potsdam-Rehbrücke, Germany                       |
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2005-2007 | Senior Investigator (Co-Appointment), Institut für Sozialmedizin, Epidemiologie und Gesundheitsökonomie, Charité -- Universitätsmedizin Berlin, Germany   |
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2004-2008 | Senior Investigator, Dept. of Epidemiology, Deutsches Institut für Ernährungsforschung (DIfE) Potsdam-Rehbrücke, Germany                                  |
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2001-2004 | Postdoc/Research Associate, Depts. of Epidemiology and Nutrition, Harvard School of Public Health, Harvard University, Boston, MA, USA                    |
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1998-2001 | Medical Residency/Postdoc, Dept. of Nephrology and Hypertensiology, Charité, and Dept. of Endocrinology and Nephrology, Freie Universität Berlin, Germany |
-+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Past Academic Experience
 
@@ -282,3 +248,13 @@ The project *Statistical Model Building Strategies for Cardiologic Applications*
 
 6.  [Akbari N, Heinze G, Rauch G, Sander B, Becher H, Dunkler D: Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review. International Journal of Environmental Research and Public Health (2023) 20(4):3182](https://doi.org/10.3390/ijerph20043182).\
     *Abstract:* Randomization is an effective design option to prevent bias from confounding in the evaluation of the causal effect of interventions on outcomes. However, in some cases, randomization is not possible, making subsequent adjustment for confounders essential to obtain valid results. Several methods exist to adjust for confounding, with multivariable modeling being among the most widely used. The main challenge is to determine which variables should be included in the causal model and to specify appropriate functional relations for continuous variables in the model. While the statistical literature gives a variety of recommendations on how to build multivariable regression models in practice, this guidance is often unknown to applied researchers. We set out to investigate the current practice of explanatory regression modeling to control confounding in the field of cardiac rehabilitation, for which mainly non-randomized observational studies are available. In particular, we conducted a systematic methods review to identify and compare statistical methodology with respect to statistical model building in the context of the existing recent systematic review CROS-II, which evaluated the prognostic effect of cardiac rehabilitation. CROS-II identified 28 observational studies, which were published between 2004 and 2018. Our methods review revealed that 24 (86%) of the included studies used methods to adjust for confounding. Of these, 11 (46%) mentioned how the variables were selected and two studies (8%) considered functional forms for continuous variables. The use of background knowledge for variable selection was barely reported and data-driven variable selection methods were applied frequently. We conclude that in the majority of studies, the methods used to develop models to investigate the effect of cardiac rehabilitation on outcomes do not meet common criteria for appropriate statistical model building and that reporting often lacks precision.
+
+## Sponsors
+
+Medical University of Vienna: [![](pics/Logo_Austria_Vienna_MUVienna-Version2421.png)](https://www.meduniwien.ac.at/web/en/)
+
+\
+FWF Austrian Science Fund: [![](pics/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png)](https://www.fwf.ac.at/en/)\
+\
+\
+DFG Deutsche Forschungsgemeinschaft: [![](pics/dfg_logo_englisch_blau_en.jpg)](https://www.dfg.de/en/)
