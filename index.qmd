@@ -86,65 +86,59 @@ Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/d
 
 ## Abstracts of invited talks
 
-### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics
+#### The German National Cohort (NAKO): Opportunity, challenges, and interactions with biostatistics
 
 **Tobias Pischon**
 
 The German National Cohort (NAKO) is a large, multidisciplinary, population-based cohort study that aims to investigate the development and etiology of major chronic diseases, identify risk factors and enhance early detection and prevention of diseases. Between 2014 and 2019, a total of 205,217 persons aged 20-74 years was recruited and examined at 18 study centers across Germany. Whole-body 3T magnetic resonance imaging (MRI) readings were performed on 30,861 participants at 5 study centers. Participants are followed-up for incident diseases via questionnaires, health records and disease registries. In addition, a mortality follow-up has been established. In addition, all study participants are being invited for a first re-examination, similar to the baseline program, between 2019 and 2024, and a second re-examination between 2024 and 2028. Interested scientists can use the web-based NAKO TransferHub (transfer.nako.de) to obtain insight into data dictionary and study population, and to apply for data or biological samples, which are made available on the basis of a Use and Access Policy. In my presentation I will provide an overview of the German National Cohort and give examples of opportunity and challenges with a focus on interactions with biostatistics.
 
-### Rage against the machine learning
+#### Rage against the machine learning
 
 **Maarten van Smeden**
 
-tba
+Medicine appears to be at the start of a new era due to the many promising developments in AI and machine learning (ML). Part of that promise is that ML will improve upon traditional statistical modelling. Another promise is that ML will outperform medical doctors. In this talk I will highlight a few medical settings where ML seems to have lived up to its promises, and some where it has not. A couple of challenges for fair comparisons between machine learning, traditional statistical modelling and doctors will be identified and discussed. Finally, I will speculate on the future role of machine learning, traditional statistical modelling and medical doctors.
 
-## Abstracts of remaining talks
+## Abstracts of the other talks
 
-### Causal model building in the context of cardiac rehabilitation: A systematic review and a case study
+#### Causal model building in the context of cardiac rehabilitation: A systematic review and a case study
 
 Nilufar Akbari, Georg Heinze, Geraldine Rauch, Ben Sander, Heiko Becher & *Daniela Dunkler*
 
 tba
 
-### Phase IV study for joint models for longitudinal and time to event data
+#### Phase IV study for joint models for longitudinal and time to event data
 
 *Jil Kollmus-Heege*
 
 In recent years, there has been an increasing use of joint models to describe the relationship between a longitudinally measured biomarker and the time to an event. The current literature suggests that joint models are preferable to conventional methods as they were shown to be unbiased in such settings. However, it is important to conduct further investigation into this relatively new and complex approach to fully understand its pitfalls and to identify what to watch out for when using it. Therefore, we compare joint models to the time-varying Cox model and the two-stage approach in multiple simulation studies. These include basic simulations as well as more complex ones based on actual observational data.
 
-### Model building using statistical and machine learning approaches: Comparison of performance and explainability
+#### Model building using statistical and machine learning approaches: Comparison of performance and explainability
 
 *Christine Schilhart-Wallisch*, Asan Agibetov, Daniela Dunkler, Maria Haller, Matthias Samwald, Georg Dorffner & Georg Heinze
 
 tba
 
-### Using background knowledge from previous studies in model building: the good, the bad and the ugly
+#### Using background knowledge from previous studies in model building: the good, the bad and the ugly
 
 by *Lorena Hafermann*, Heiko Becher, Carolin Herrmann, Nadja Klein, Michael Kammer, Georg Heinze & Geraldine Rauch
 
 tba
 
-### Correlated predictors: is variable omission a good default solution?
+#### Correlated predictors: is variable omission a good default solution?
 
 by *Mariella Gregorich*, Susanne Strohmaier, Daniela Dunkler & Georg Heinze
 
 tba
 
-### Reliable confidence intervals after variable selection: does it work in practice?
+#### Reliable confidence intervals after variable selection: does it work in practice?
 
 by *Michael Kammer*, Daniela Dunkler, Stefan Michiels & Georg Heinze
 
 tba
 
-### Variable selection methods for linear and logistic regression: A comparison of approaches
+#### Variable selection methods for linear and logistic regression: A comparison of approaches
 
 by *Theresa Ullmann*, Christine Schilhart-Wallisch, Lorena Hafermann, Georg Heinze & Daniela Dunkler
-
-tba
-
-### Variable selection methods for Cox and accelerated failure time models: A comparison of approaches
-
-by *Georg Heinze*, Theresa Ullmann, Christine Schilhart-Wallisch, Lorena Hafermann & Daniela Dunkler
 
 tba
 
