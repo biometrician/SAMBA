@@ -109,7 +109,7 @@ tba
 
 by *Mariella Gregorich*, Susanne Strohmaier, Daniela Dunkler & Georg Heinze
 
-tba
+The development of statistical models is often conducted without adequate consideration for the research objective, leading to model misspecification and wrong interpretation. In this study, we investigate commonly employed practices in applied regression analysis when dealing with highly correlated predictors whilst challenging the conventional approach of eliminating one or more correlated variables from the regression model. Instead, we emphasize that the adequate handling of correlated predictors should be tailored to the conceptual research objective: descriptive, explanatory or predictive modelling. Through a range of empirical data examples, we illustrate the limitations of diagnostic statistical tools in guiding data analysts in model building and propose alternative strategies to handle high correlation that align with the research objectives.
 
 #### Reliable confidence intervals after variable selection: does it work in practice?
 
