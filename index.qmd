@@ -6,19 +6,24 @@ title: "Statistical Model Building Strategies for Cardiologic Applications - New
 
 We cordially invite you to the workshop **Statistical Model Building Strategies for Cardiologic Applications (SAMBA) - New results and future challenges** on November 23th and 24th in Vienna. The workshop is organized by the PIs of the international joint project SAMBA in cooperation with the [Wiener Biometrische Sektion (WBS)](https://www.meduniwien.ac.at/wbs/) and the [Center for Medical Data Science (CeDAS)](https://cemsiis.meduniwien.ac.at/en/) at the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/). We are delighted to welcome Prof. Dr. **Tobias Pischon** from Berlin, Germany, and Prof. Dr. **Maarten van Smeden** from Utrecht, Netherlands, as keynote speakers. We acknowledge the support by the Austrian Science Funds (FWF) and the Deutsche Forschungsgemeinschaft (DFG) through the joint project SAMBA, grants I4739-B and RA-2347/8-1, respectively.
 
-The workshop will cover two half days. On the afternoon of November 23th our focus will be on the **intersection of epidemiology and biostatistics**. Prof. Pischon will talk on the *Interaction of epidemiology with biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases* followed by a panel discussion on *Complex longitudinal studies: Needs and challenges in the interaction epidemiology -- biostatistics*. The morning of November 24th is dedicated to **The power and danger of algorithmic model building**, where Prof. van Smeden will give his talk on *Rage against the machine learning*. The participants of the SAMBA project will also present issues and opportunities of statistical model building strategies with a focus on cardiological applications.
+The workshop will cover two half days. On the afternoon of November 23th our focus will be on the **intersection of epidemiology and biostatistics**. Prof. Pischon will talk on the *Interaction of epidemiology with biostatistics within the large prospective cohort study NAKO with emphasis on cardiovascular diseases* followed by a panel discussion on *Complex longitudinal studies: Needs and challenges in the interaction epidemiology -- biostatistics*. The morning of November 24th is dedicated to **The power and risks of algorithmic model building**, where Prof. van Smeden will give his talk on *Rage against the machine learning*. The participants of the SAMBA project will also present issues and opportunities of statistical model building strategies with a focus on cardiological applications.
 
 The participation in the workshop is free of charge and open to any national and international participants of any scientific discipline interested in the interaction of biostatistics, epidemiology, machine learning and cardiology.
 
 We are looking forward to welcoming you in Vienna in November!
 
-*Daniela Dunkler, Georg Heinze, Heiko Becher, Geraldine Rauch (organizing committee)*
+*Daniela Dunkler, Georg Heinze, Heiko Becher & Geraldine Rauch (organizing committee)*
 
 ## Registration
 
 If you intend to come to the workshop, please register here:
 
-*Registration will open soon*
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYnvKqiHXADGIJLuwOunU4xh0qoVAzb0s6-UeyskdfKjmL_g/viewform?embedded=true" width="640" height="1260" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading...
+
+</iframe>
+
 
 ## Programme
 
@@ -47,7 +52,7 @@ Evening: Social programme
 
 ### Friday, 24.11.2023
 
-Topic of the day **The power and danger of algorithmic model building**
+Topic of the day **The power and risks of algorithmic model building**
 
 Venue: Medical University Vienna, [Spitalgasse 23](https://www.google.com/maps/dir//Spitalgasse+23,+1090+Wien/@48.2185593,16.3465908,16.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x476d07c6c528c823:0x97a73506b8511477!2m2!1d16.3475329!2d48.2196447?entry=ttu), [Jugendstilhörsaal](https://www.meduniwien.ac.at/frauenheilkunde/gyn_data/Jugendstilh%C3%B6rsaal_Wegbeschreibung180416.pdf)
 
@@ -103,7 +108,7 @@ tba
 
 by *Lorena Hafermann*, Heiko Becher, Carolin Herrmann, Nadja Klein, Michael Kammer, Georg Heinze & Geraldine Rauch
 
-tba
+The question of which variables to include in a statistical model is of key importance. Thereby, the integration of background knowledge into the modelling process is an issue that is gaining increasing interest. Often background knowledge is based on results from previous studies. Its quality can vary substantially, particular with regard to the methods used to select variables, raising concerns about its utility for model building in a new study. We found that in the context of descriptive and explanatory linear regression models, background knowledge from previous studies that employed inappropriate model building strategies such as univariable selection distorted the specification of an appropriate predictor set. We also investigated if prediction models estimated by Random Forests benefitted from the incorporation of appropriate background knowledge on the set of predictors. Surprisingly, there was no benefit in terms of discrimination, but the calibration of the model improved by well-informed restriction of the candidate predictor set. Therefore, we recommend to use background knowledge with care and to critically appraise the methodological quality of any previous studies from which it was derived.
 
 #### Correlated predictors: is variable omission a good default solution?
 
@@ -115,19 +120,19 @@ The development of statistical models is often conducted without adequate consid
 
 by *Michael Kammer*, Daniela Dunkler, Stefan Michiels & Georg Heinze
 
-tba
+Biomedical data analysis relies heavily on variable selection for regression models. However, classical statistical frequentist theory, which assumes a fixed set of model covariates, does not cover inference post-selection. We compared selective inference methods for Lasso and adaptive Lasso submodel parameters: sample splitting, selective inference conditional on Lasso selection (SI), and universally valid post-selection inference (PoSI). Using R software packages, we evaluated their selective confidence intervals through simulations mirroring typical biomedical data. We also applied these methods to a real dataset. SI method showed generally acceptable frequentist properties but failed to achieve claimed selective coverage levels, especially with adaptive Lasso. Sample splitting is an alternative if simplicity is favored over efficiency. PoSI was extremely conservative and is suitable only when few predictors undergo selection or avoiding false positive claims is crucial. In summary, selective inference aids in assessing uncertainties in the importance of selected predictors for future applications.
 
 #### Variable selection methods for linear and logistic regression: A comparison of approaches
 
 by *Theresa Ullmann*, Christine Schilhart-Wallisch, Lorena Hafermann, Georg Heinze & Daniela Dunkler
 
-tba
+Data-driven variable selection is frequently performed in statistical modeling, i.e., when modeling the associations between an outcome and multiple independent variables. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. Few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present results from a simulation study that compares different variable selection methods: forward selection, (augmented) backward elimination, univariable selection, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). In the interpretation of the results, we put a specific focus on which estimands and performance criteria are relevant for which modeling goals (descriptive, explanatory or predictive modeling). 
 
 #### Variable selection: Improving on the bad habit to ignore selection decisions in model inference
 
 by *Nilufar Akbari* & Georg Heinze
 
-tba
+For regression models, methods for estimating the variance for the regression coefficients a set of pre-specified predictors are well-established. However, when the set of predictors is based on data-driven variable selection, there is no widely accepted method to account for selection uncertainty. Since it must be assumed that not selecting a variable into a model is associated with uncertainty, variance estimates of the coefficients of the unselected variables are desirable. The idea of this study is to use a modified sandwich variance estimator for this task. Hereby, the robust variance (sandwich) formula is applied to all candidate variables, including variables that were not selected into the final model. We conducted a simulation study to investigate the method and compare its performance to two model-based variance methods and two bootstrap based methods.
 
 ## Biosketch of invited speakers
 
@@ -249,11 +254,19 @@ The project *Statistical Model Building Strategies for Cardiologic Applications*
 6.  [Akbari N, Heinze G, Rauch G, Sander B, Becher H, Dunkler D: Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review. International Journal of Environmental Research and Public Health (2023) 20(4):3182](https://doi.org/10.3390/ijerph20043182).\
     *Abstract:* Randomization is an effective design option to prevent bias from confounding in the evaluation of the causal effect of interventions on outcomes. However, in some cases, randomization is not possible, making subsequent adjustment for confounders essential to obtain valid results. Several methods exist to adjust for confounding, with multivariable modeling being among the most widely used. The main challenge is to determine which variables should be included in the causal model and to specify appropriate functional relations for continuous variables in the model. While the statistical literature gives a variety of recommendations on how to build multivariable regression models in practice, this guidance is often unknown to applied researchers. We set out to investigate the current practice of explanatory regression modeling to control confounding in the field of cardiac rehabilitation, for which mainly non-randomized observational studies are available. In particular, we conducted a systematic methods review to identify and compare statistical methodology with respect to statistical model building in the context of the existing recent systematic review CROS-II, which evaluated the prognostic effect of cardiac rehabilitation. CROS-II identified 28 observational studies, which were published between 2004 and 2018. Our methods review revealed that 24 (86%) of the included studies used methods to adjust for confounding. Of these, 11 (46%) mentioned how the variables were selected and two studies (8%) considered functional forms for continuous variables. The use of background knowledge for variable selection was barely reported and data-driven variable selection methods were applied frequently. We conclude that in the majority of studies, the methods used to develop models to investigate the effect of cardiac rehabilitation on outcomes do not meet common criteria for appropriate statistical model building and that reporting often lacks precision.
 
-## Sponsors
+## Host
+A joint seminar by the Medical University of Vienna and 
+the Wiener Biometrische Sektion der Region Österreich-Schweiz (ROeS) der internationalen Biometrischen Gesellschaft
 
-Medical University of Vienna: [![](pics/Logo_Austria_Vienna_MUVienna-Version2421.png)](https://www.meduniwien.ac.at/web/en/)
+[![](pics/Logo_Austria_Vienna_MUVienna-Version2421.png)](https://www.meduniwien.ac.at/web/en/)
 
 \
+[![](pics/wbs.png)](https://www.meduniwien.ac.at/wbs/)
+
+\
+
+## Funding
+
 FWF Austrian Science Fund: [![](pics/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png)](https://www.fwf.ac.at/en/)\
 \
 \
