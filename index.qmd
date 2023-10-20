@@ -102,7 +102,7 @@ In recent years, there has been an increasing use of joint models to describe th
 
 *Christine Schilhart-Wallisch*, Asan Agibetov, Daniela Dunkler, Maria Haller, Matthias Samwald, Georg Dorffner & Georg Heinze
 
-tba
+While boundaries between classical statistical model building (SMB) and machine learning (ML) are fluid, both modeling cultures have been used to develop cardiovascular prediction models based on typical predictors such as total cholesterol, blood pressure, sex or age. We reanalyzed data from a large registry of 1.5 million participants in a national health screening program. We developed analytical strategies based on SMB (including nonlinear functional forms and interactions) or on ML to predict cardiovascular events within 1 year from health screening. This was done for the full data set and with gradually reduced sample sizes. Predictive performance was similar if the models were derived on the full data set, whereas smaller sample sizes favored simpler models. Visualized predictor-risk relations differed between SMB and ML, even with large sample sizes. Hence, the supposed role of cardiovascular predictors in prognosis can depend on how a risk prediction model was developed. 
 
 #### Using background knowledge from previous studies in model building: the good, the bad and the ugly
 
