@@ -94,7 +94,7 @@ Randomization is an effective design option to prevent bias from confounding in 
 
 #### Phase IV study of joint models for longitudinal and time to event data
 
-*Jil Kollmus-Heege*
+*Jil Kollmus-Heege*, Annette Aigner, Sonja Greven & Ulrike Grittner
 
 In recent years, there has been an increasing use of joint models to describe the relationship between a longitudinally measured biomarker and the time to an event. The current literature suggests that joint models are preferable to conventional methods as they were shown to be unbiased in such settings. However, it is important to conduct further investigation into this relatively new and complex approach to fully understand its pitfalls and to identify what to watch out for when using it. Therefore, we compare joint models to the time-varying Cox model and the two-stage approach in multiple simulation studies. These include basic simulations as well as more complex ones based on actual observational data.
 
