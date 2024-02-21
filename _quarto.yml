@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - workshop.qmd  
       - about.qmd
 
 format:
@@ -22,6 +23,6 @@ author:
   - name: Daniela Dunkler
     affiliation: Medical University of Vienna, Center for Medical Data Science
 date: last-modified                            
-categories: [SAMBA, WBS Herbst Seminar, Medical University of Vienna, Vienna]
+categories: [SAMBA, Medical University of Vienna, Vienna, Statistical modeling, Cardiovascular outcomes]
 description: ""
 
