@@ -14,7 +14,6 @@ RA-2347/8-1) to Geraldine Rauch and Heiko Becher.
 
 ## Abstract
 
-
 **Wider research context**
 
 Statistical models that adequately describe disease progression and treatment
@@ -102,6 +101,20 @@ and valid model building strategies for each of the four exemplary applications.
 
 -   Ullmann, Theresa [(Medical University of
     Vienna)](https://www.meduniwien.ac.at/researcher/theresa_ullmann)
+
+## SAMBA Workshop 2023 in Vienna
+
+In Nov 2023, we organized a two-day [SAMBA workshop](workshop.qmd#sec.workshop)
+at the Medical University of Vienna. Two international speakers - Maarten van
+Smeden and Tobias Pischon - were invited and gave the keynote speeches. All
+SAMBA participants presented results from SAMBA projects and a panel discussion
+on the topic *Complex Longitudinal Studies: Needs and Challenges in the
+Interaction of Biostatistics and Epidemiology* completed the workshop. A virtual
+participation of the public part of the workshop was possible to allow
+international participation. In the end, 56 participants attended the workshop
+on-site and 82 followed the event online.
+
+![Group photo of SAMBA participants and guest speakers](pics/workshop.jpg)
 
 ## Selected output of the SAMBA project
 
@@ -311,6 +324,7 @@ and valid model building strategies for each of the four exemplary applications.
     effect of cardiac rehabilitation on outcomes do not meet common criteria for
     appropriate statistical model building and that reporting often lacks
     precision.
+
 
 ## Funding
 
