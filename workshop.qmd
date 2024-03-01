@@ -2,7 +2,7 @@
 title: "Workshop 2023"
 ---
 
-## **Workshop on the 23th and 24th of November at the Medical University of Vienna**
+## **Workshop on the 23th and 24th of November at the Medical University of Vienna** {#sec-workshop}
 
 We cordially invite you to the workshop **Statistical Model Building Strategies for Cardiologic Applications (SAMBA) - New results and future challenges** on November 23th and 24th in Vienna. The workshop is organized by the PIs of the international joint project SAMBA in cooperation with the [Wiener Biometrische Sektion (WBS)](https://www.meduniwien.ac.at/wbs/) and the [Center for Medical Data Science (CeDAS)](https://cemsiis.meduniwien.ac.at/en/) at the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/). We are delighted to welcome Prof. Dr. **Tobias Pischon** from Berlin, Germany, and Prof. Dr. **Maarten van Smeden** from Utrecht, Netherlands, as keynote speakers. We acknowledge the support by the Austrian Science Funds (FWF) and the Deutsche Forschungsgemeinschaft (DFG) through the joint project SAMBA, grants I4739-B and RA-2347/8-1, respectively.
 
@@ -77,7 +77,7 @@ The German National Cohort (NAKO) is a large, multidisciplinary, population-base
 
 Medicine appears to be at the start of a new era due to the many promising developments in AI and machine learning (ML). Part of that promise is that ML will improve upon traditional statistical modelling. Another promise is that ML will outperform medical doctors. In this talk I will highlight a few medical settings where ML seems to have lived up to its promises, and some where it has not. A couple of challenges for fair comparisons between machine learning, traditional statistical modelling and doctors will be identified and discussed. Finally, I will speculate on the future role of machine learning, traditional statistical modelling and medical doctors.
 
-## Abstracts of the other talks
+## Abstracts of contributed talks
 
 #### Causal model building in the context of cardiac rehabilitation: A systematic review and a case study
 
