@@ -93,6 +93,10 @@ and valid model building strategies for each of the four exemplary applications.
 -   Kammer, Michael [(Medical University of
     Vienna)](https://www.meduniwien.ac.at/researcher/kammer_michael)
 
+-   Madern, Moritz (Medical University of Vienna)
+
+-   Pamminger, Moritz (Medical University of Vienna)
+
 -   Rauch, Geraldine [Technische Universität
     Berlin](https://www.tu.berlin/ueber-die-tu-berlin/organisation/universitaetsleitung/praesidentin)
 
@@ -117,6 +121,8 @@ on-site and 82 followed the event online.
 ![Group photo of SAMBA participants and guest speakers](pics/workshop.jpg)
 
 ## Selected output of the SAMBA project
+
+### Peer-reviewed publications
 
 1.  [Wallisch C, Dunkler D, Rauch G, de Bin R, Heinze G: Selection of variables
     for multivariable models: Opportunities and limitations in quantifying model
@@ -324,6 +330,18 @@ on-site and 82 followed the event online.
     effect of cardiac rehabilitation on outcomes do not meet common criteria for
     appropriate statistical model building and that reporting often lacks
     precision.
+    
+    
+8.  [Ullmann T, Heinze G, Hafermann L, Schilhart-Wallisch C, Dunkler D, for TG2 
+    of the STRATOS initiative. „Evaluating Variable Selection Methods for 
+    Multivariable Regression Models: A Simulation Study Protocol“. PLOS ONE 19, 
+    Nr. 8 (2024): e0308543.](https://doi.org/10.1371/journal.pone.0308543).\
+    *Abstract:* Researchers often perform data-driven variable selection when modeling the associations between an outcome and multiple independent variables in regression analysis. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. While the potential advantages and disadvantages of variable selection have been discussed in the literature for decades, few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present the protocol for a simulation study that will evaluate different variable selection methods: forward selection, stepwise forward selection, backward elimination, augmented backward elimination, univariable selection, univariable selection followed by backward elimination, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). These methods will be compared with respect to false inclusion and/or exclusion of variables, consequences on bias and variance of the estimated regression coefficients, the validity of the confidence intervals for the coefficients, the accuracy of the estimated variable importance ranking, and the predictive performance of the selected models. We consider both linear and logistic regression in a low-dimensional setting (20 independent variables with 10 true predictors and 10 noise variables). The simulation will be based on real-world data from the National Health and Nutrition Examination Survey (NHANES). Publishing this study protocol ahead of performing the simulation increases transparency and allows integrating the perspective of other experts into the study design.
+
+### Educational shiny app
+An educational shiny app to explore the use of fractional polynomials, B-splines 
+and natural splines, to estimate non-linear associations of an outcome of 
+interest with a continuous explanatory variable can be found at [https://clinicalbiometrics.shinyapps.io/Bendyourspline](https://clinicalbiometrics.shinyapps.io/Bendyourspline).
 
 ## Funding
 
