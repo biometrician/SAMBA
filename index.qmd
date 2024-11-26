@@ -9,8 +9,8 @@ editor:
 an ongoing German-Austrian joint research project funded by the Austrian Science
 Fund (FWF) ([grant number
 I4739-B](https://www.fwf.ac.at/en/research-radar/10.55776/I4739) to Daniela
-Dunkler), and the Deutsche Forschungsgemeinschaft (DFG) (grant number
-RA-2347/8-1) to Geraldine Rauch and Heiko Becher.
+Dunkler), and the Deutsche Forschungsgemeinschaft (DFG) (grant number RA-2347/8-1) to Geraldine Rauch and Heiko Becher. The Austrian part of the
+project was completed in August 2024.
 
 ## Abstract
 
@@ -93,6 +93,10 @@ and valid model building strategies for each of the four exemplary applications.
 -   Kammer, Michael [(Medical University of
     Vienna)](https://www.meduniwien.ac.at/researcher/kammer_michael)
 
+-   Madern, Moritz (Medical University of Vienna)
+
+-   Pamminger, Moritz (Medical University of Vienna)
+
 -   Rauch, Geraldine [Technische Universität
     Berlin](https://www.tu.berlin/ueber-die-tu-berlin/organisation/universitaetsleitung/praesidentin)
 
@@ -118,53 +122,96 @@ on-site and 82 followed the event online.
 
 ## Selected output of the SAMBA project
 
-1.  [Wallisch C, Dunkler D, Rauch G, de Bin R, Heinze G: Selection of variables
+### Peer-reviewed publications
+
+1.  [Bach, P, Wallisch C, Klein N, Hafermann L, Sauerbrei W, Steyerberg E W,
+    Heinze G, Rauch G, and Stratos initiative for topic group 2: Systematic
+    review of education and practical guidance on regression modeling for
+    medical researchers who lack a strong statistical background: Study
+    protocol. PLoS ONE 15, Nr. 12 (2020):
+    e0241427](https://doi.org/10.1371/journal.pone.0241427).\
+    *Abstract:*\
+    In the last decades, statistical methodology has developed rapidly, in
+    particular in the field of regression modeling. Multivariable regression
+    models are applied in almost all medical research projects. Therefore, the
+    potential impact of statistical misconceptions within this field can be
+    enormous Indeed, the current theoretical statistical knowledge is not always
+    adequately transferred to the current practice in medical statistics. Some
+    medical journals have identified this problem and published isolated
+    statistical articles and even whole series thereof. In this systematic
+    review, we aim to assess the current level of education on regression
+    modeling that is provided to medical researchers via series of statistical
+    articles published in medical journals. The present manuscript is a protocol
+    for a systematic review that aims to assess which aspects of regression
+    modeling are covered by statistical series published in medical journals
+    that intend to train and guide applied medical researchers with limited
+    statistical knowledge. Statistical paper series cannot easily be summarized
+    and identified by common keywords in an electronic search engine like
+    Scopus. We therefore identified series by a systematic request to
+    statistical experts who are part or related to the STRATOS Initiative
+    (STRengthening Analytical Thinking for Observational Studies). Within each
+    identified article, two raters will independently check the content of the
+    articles with respect to a predefined list of key aspects related to
+    regression modeling. The content analysis of the topic-relevant articles
+    will be performed using a predefined report form to assess the content as
+    objectively as possible. Any disputes will be resolved by a third reviewer.
+    Summary analyses will identify potential methodological gaps and
+    misconceptions that may have an important impact on the quality of analyses
+    in medical research. This review will thus provide a basis for future
+    guidance papers and tutorials in the field of regression modeling which will
+    enable medical researchers 1) to interpret publications in a correct way, 2)
+    to perform basic statistical analyses in a correct way and 3) to identify
+    situations when the help of a statistical expert is required.
+
+2.  [Wallisch C, Dunkler D, Rauch G, de Bin R, Heinze G: Selection of variables
     for multivariable models: Opportunities and limitations in quantifying model
     stability by resampling. Statistics in Medicine (2021)
     40:369-381](https://doi.org/10.1002/sim.8779).\
-    *Abstract:* Statistical models are often fitted to obtain a concise
-    description of the associ- ation of an outcome variable with some
-    covariates. Even if background knowledge is available to guide preselection
-    of covariates, stepwise variable selection is commonly applied to remove
-    irrelevant ones. This practice may introduce additional variability and
-    selection is rarely certain. However, these issues are often ignored and
-    model stability is not questioned. Several resampling-based measures were
-    proposed to describe model stability,including variable inclusion
-    frequencies (VIFs), model selection frequencies, relative conditional bias
-    (RCB), and root mean squared difference ratio (RMSDR). The latter two were
-    recently proposed to assess bias and variance inflation induced by variable
-    selection. Here, we study the consistency and accuracy of resampling
-    estimates of these measures and the optimal choice of the resampling
-    technique. In particular, we compare subsampling and bootstrapping for
-    assessing stability of linear, logistic, and Cox models obtained by backward
-    elimination in a simulation study. Moreover, we exemplify the estimation and
-    interpretation of all suggested measures in a study on cardiovascular risk.
-    The VIF and the model selection frequency are only consistently estimated in
-    the subsampling approach. By contrast, the bootstrap is advantageous in
-    terms of bias and precision for estimating the RCB as well as the RMSDR.
-    Though, unbiased estimation of the latter quantity requires independence of
-    covariates, which is rarely encountered in practice. Our study stresses the
-    importance of addressing model stability after variable selection and shows
-    how to cope with it.
+    *Abstract:* \
+    Statistical models are often fitted to obtain a concise description of the
+    associ- ation of an outcome variable with some covariates. Even if
+    background knowledge is available to guide preselection of covariates,
+    stepwise variable selection is commonly applied to remove irrelevant ones.
+    This practice may introduce additional variability and selection is rarely
+    certain. However, these issues are often ignored and model stability is not
+    questioned. Several resampling-based measures were proposed to describe
+    model stability,including variable inclusion frequencies (VIFs), model
+    selection frequencies, relative conditional bias (RCB), and root mean
+    squared difference ratio (RMSDR). The latter two were recently proposed to
+    assess bias and variance inflation induced by variable selection. Here, we
+    study the consistency and accuracy of resampling estimates of these measures
+    and the optimal choice of the resampling technique. In particular, we
+    compare subsampling and bootstrapping for assessing stability of linear,
+    logistic, and Cox models obtained by backward elimination in a simulation
+    study. Moreover, we exemplify the estimation and interpretation of all
+    suggested measures in a study on cardiovascular risk. The VIF and the model
+    selection frequency are only consistently estimated in the subsampling
+    approach. By contrast, the bootstrap is advantageous in terms of bias and
+    precision for estimating the RCB as well as the RMSDR. Though, unbiased
+    estimation of the latter quantity requires independence of covariates, which
+    is rarely encountered in practice. Our study stresses the importance of
+    addressing model stability after variable selection and shows how to cope
+    with it.
 
-2.  [Gregorich M, Strohmaier S, Dunkler D, Heinze G: Regression with Highly
+3.  [Gregorich M, Strohmaier S, Dunkler D, Heinze G: Regression with Highly
     Correlated Predictors: Variable Omission Is Not the Solution. International
     Journal of Environmental Research and Public Health (2021)
     18(8)](https://doi.org/10.3390/ijerph18084259).\
-    *Abstract:* Regression models have been in use for decades to explore and
-    quantify the association between a dependent response and several
-    independent variables in environmental sciences, epidemiology and public
-    health. However, researchers often encounter situations in which some
-    independent variables exhibit high bivariate correlation, or may even be
-    collinear. Improper statistical handling of this situation will most
-    certainly generate models of little or no practical use and misleading
-    interpretations. By means of two example studies, we demonstrate how
-    diagnostic tools for collinearity or near-collinearity may fail in guiding
-    the analyst. Instead, the most appropriate way of handling collinearity
-    should be driven by the research question at hand and, in particular, by the
-    distinction between predictive or explanatory aims.
+    *Abstract:* \
+    Regression models have been in use for decades to explore and quantify the
+    association between a dependent response and several independent variables
+    in environmental sciences, epidemiology and public health. However,
+    researchers often encounter situations in which some independent variables
+    exhibit high bivariate correlation, or may even be collinear. Improper
+    statistical handling of this situation will most certainly generate models
+    of little or no practical use and misleading interpretations. By means of
+    two example studies, we demonstrate how diagnostic tools for collinearity or
+    near-collinearity may fail in guiding the analyst. Instead, the most
+    appropriate way of handling collinearity should be driven by the research
+    question at hand and, in particular, by the distinction between predictive
+    or explanatory aims.
 
-3.  [Hafermann L, Becher H, Herrmann C, Klein N, Heinze G, Rauch G: Statistical
+4.  [Hafermann L, Becher H, Herrmann C, Klein N, Heinze G, Rauch G: Statistical
     Model Building: Background "Knowledge" Based on Inappropriate Preselection
     Causes Misspecification. BMC Med Res Methodol (2021)
     21(1):196](https://doi.org/10.1186/s12874-021-01373-z).\
@@ -193,7 +240,7 @@ on-site and 82 followed the event online.
     Conclusions: The source of "background knowledge" should be evaluated with
     care. Knowledge generated on preceding studies can cause misspecification.
 
-4.  [Wallisch C, Agibetov A, Dunkler D, Haller M, Samwald M, Dorffner G, Heinze
+5.  [Wallisch C, Agibetov A, Dunkler D, Haller M, Samwald M, Dorffner G, Heinze
     G: The Roles of Predictors in Cardiovascular Risk Models - a Question of
     Modeling Culture? BMC Medical Research Methodology (2021)
     21(1):284](https://doi.org/10.1186/s12874-021-01487-4).\
@@ -225,14 +272,15 @@ on-site and 82 followed the event online.
     sample size is sufficient, predictive accuracy is not largely affected by
     the choice of algorithm.
 
-5.  [Hafermann L, Klein N, Rauch G, Kammer M, Heinze G: Using Background
+6.  [Hafermann L, Klein N, Rauch G, Kammer M, Heinze G: Using Background
     Knowledge from Preceding Studies for Building a Random Forest Prediction
     Model: A Plasmode Simulation Study. Entropy (Basel) (2022)
     24(6)](https://doi.org/10.3390/e24060847).\
-    *Abstract:* There is an increasing interest in machine learning (ML)
-    algorithms for predicting patient outcomes, as these methods are designed to
-    automatically discover complex data patterns. For example, the random forest
-    (RF) algorithm is designed to identify relevant predictor variables out of a
+    *Abstract:* \
+    There is an increasing interest in machine learning (ML) algorithms for
+    predicting patient outcomes, as these methods are designed to automatically
+    discover complex data patterns. For example, the random forest (RF)
+    algorithm is designed to identify relevant predictor variables out of a
     large set of candidates. In addition, researchers may also use external
     information for variable selection to improve model interpretability and
     variable selection accuracy, thereby prediction quality. However, it is
@@ -251,7 +299,7 @@ on-site and 82 followed the event online.
     studies that serve as an external information source for future prediction
     model development.
 
-6.  [Kammer M, Dunkler D, Michiels S, Heinze G: Evaluating Methods for Lasso
+7.  [Kammer M, Dunkler D, Michiels S, Heinze G: Evaluating Methods for Lasso
     Selective Inference in Biomedical Research: A Comparative Simulation Study.
     BMC Medical Research Methodology (2022)
     22(1):206](https://doi.org/10.1186/s12874-022-01681-y).\
@@ -292,16 +340,52 @@ on-site and 82 followed the event online.
     useful to assess the uncertainties in the importance of individual selected
     predictors for future applications.
 
-7.  [Akbari N, Heinze G, Rauch G, Sander B, Becher H, Dunkler D: Causal Model
+8.  [Wallisch C, Bach P, Hafermann L, Klein N, Sauerbrei W, Steyerberg E W,
+    Heinze G, Rauch G and Stratos initiative topic group 2. Review of guidance
+    papers on regression modeling in statistical series of medical journals.
+    PLoS ONE 17, Nr. 1 (2022):
+    e0262918.](https://doi.org/10.1371/journal.pone.0262918).\
+    *Abstract:* \
+    Although regression models play a central role in the analysis of medical
+    research projects, there still exist many misconceptions on various aspects
+    of modeling leading to faulty analyses. Indeed, the rapidly developing
+    statistical methodology and its recent advances in regression modeling do
+    not seem to be adequately reflected in many medical publications. This
+    problem of knowledge transfer from statistical research to application was
+    identified by some medical journals, which have published series of
+    statistical tutorials and (shorter) papers mainly addressing medical
+    researchers. The aim of this review was to assess the current level of
+    knowledge with regard to regression modeling contained in such statistical
+    papers. We searched for target series by a request to international
+    statistical experts. We identified 23 series including 57 topic-relevant
+    articles. Within each article, two independent raters analyzed the content
+    by investigating 44 predefined aspects on regression modeling. We assessed
+    to what extent the aspects were explained and if examples, software advices,
+    and recommendations for or against specific methods were given. Most series
+    (21/23) included at least one article on multivariable regression. Logistic
+    regression was the most frequently described regression type (19/23),
+    followed by linear regression (18/23), Cox regression and survival models
+    (12/23) and Poisson regression (3/23). Most general aspects on regression
+    modeling, e.g. model assumptions, reporting and interpretation of regression
+    results, were covered. We did not find many misconceptions or misleading
+    recommendations, but we identified relevant gaps, in particular with respect
+    to addressing nonlinear effects of continuous predictors, model
+    specification and variable selection. Specific recommendations on software
+    were rarely given. Statistical guidance should be developed for nonlinear
+    effects, model specification and variable selection to better support
+    medical researchers who perform or interpret regression analyses.
+
+9.  [Akbari N, Heinze G, Rauch G, Sander B, Becher H, Dunkler D: Causal Model
     Building in the Context of Cardiac Rehabilitation: A Systematic Review.
     International Journal of Environmental Research and Public Health (2023)
     20(4):3182](https://doi.org/10.3390/ijerph20043182).\
-    *Abstract:* Randomization is an effective design option to prevent bias from
-    confounding in the evaluation of the causal effect of interventions on
-    outcomes. However, in some cases, randomization is not possible, making
-    subsequent adjustment for confounders essential to obtain valid results.
-    Several methods exist to adjust for confounding, with multivariable modeling
-    being among the most widely used. The main challenge is to determine which
+    *Abstract:* \
+    Randomization is an effective design option to prevent bias from confounding
+    in the evaluation of the causal effect of interventions on outcomes.
+    However, in some cases, randomization is not possible, making subsequent
+    adjustment for confounders essential to obtain valid results. Several
+    methods exist to adjust for confounding, with multivariable modeling being
+    among the most widely used. The main challenge is to determine which
     variables should be included in the causal model and to specify appropriate
     functional relations for continuous variables in the model. While the
     statistical literature gives a variety of recommendations on how to build
@@ -325,6 +409,45 @@ on-site and 82 followed the event online.
     appropriate statistical model building and that reporting often lacks
     precision.
 
+10. [Ullmann T, Heinze G, Hafermann L, Schilhart-Wallisch C, Dunkler D, for TG2
+    of the STRATOS initiative. „Evaluating Variable Selection Methods for
+    Multivariable Regression Models: A Simulation Study Protocol“. PLOS ONE 19,
+    Nr. 8 (2024): e0308543.](https://doi.org/10.1371/journal.pone.0308543).\
+    *Abstract:* \
+    Researchers often perform data-driven variable selection when modeling the
+    associations between an outcome and multiple independent variables in
+    regression analysis. Variable selection may improve the interpretability,
+    parsimony and/or predictive accuracy of a model. Yet variable selection can
+    also have negative consequences, such as false exclusion of important
+    variables or inclusion of noise variables, biased estimation of regression
+    coefficients, underestimated standard errors and invalid confidence
+    intervals, as well as model instability. While the potential advantages and
+    disadvantages of variable selection have been discussed in the literature
+    for decades, few large-scale simulation studies have neutrally compared
+    data-driven variable selection methods with respect to their consequences
+    for the resulting models. We present the protocol for a simulation study
+    that will evaluate different variable selection methods: forward selection,
+    stepwise forward selection, backward elimination, augmented backward
+    elimination, univariable selection, univariable selection followed by
+    backward elimination, and penalized likelihood approaches (Lasso, relaxed
+    Lasso, adaptive Lasso). These methods will be compared with respect to false
+    inclusion and/or exclusion of variables, consequences on bias and variance
+    of the estimated regression coefficients, the validity of the confidence
+    intervals for the coefficients, the accuracy of the estimated variable
+    importance ranking, and the predictive performance of the selected models.
+    We consider both linear and logistic regression in a low-dimensional setting
+    (20 independent variables with 10 true predictors and 10 noise variables).
+    The simulation will be based on real-world data from the National Health and
+    Nutrition Examination Survey (NHANES). Publishing this study protocol ahead
+    of performing the simulation increases transparency and allows integrating
+    the perspective of other experts into the study design.
+
+### Educational shiny app
+
+An educational shiny app to explore the use of fractional polynomials, B-splines
+and natural splines, to estimate non-linear associations of an outcome of
+interest with a continuous explanatory variable can be found at
+<https://clinicalbiometrics.shinyapps.io/Bendyourspline>.
 
 ## Funding
 
