@@ -72,6 +72,8 @@ and valid model building strategies for each of the four exemplary applications.
 -   Akbari, Nilufar [(Charité Universitätsmedizin
     Berlin)](https://biometrie.charite.de/metas/person/person/address_detail/msc_nilufar_akbari/)
 
+-   Bach, Paul
+
 -   Becher, Heiko [(Universitätsklinikum Heidelberg
     )](https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health/groups-projects/working-groups/epidemiology-and-biostatistics/staffmem/members/becherh)
 
